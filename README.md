@@ -1,11 +1,12 @@
 # User Guide
 
 1. File location
-   -The main is located in the src folder named ePortfolio.
-3. Building/Running program
+      - The main is located in the src folder named Portfolio
+   
+2. Building/Running program
    - run with run button on InteliJ
    - compile using terminal using java (.java files), then using javac Portfolio to run my main
-4. Testing program
+3. Testing program
    - Go to Test plan
    
 # Program description
