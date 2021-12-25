@@ -1,10 +1,13 @@
 # User Guide
 
-1. Building/Running program
+1. File location
+      - The main is located in the src folder named Portfolio
+   
+2. Building/Running program
    - run with run button on InteliJ
    - compile using terminal using java (.java files), then using javac Portfolio to run my main
 3. Testing program
-   - Go to [test plan](#Test Plan).
+   - Go to Test plan
    
 # Program description
 The program presents a user with fully fledged gui interface that allows the user to choose from 5 commands, Buying 
